@@ -2,18 +2,15 @@
   "name": "camviewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://hislopzach.github.io/react-gh-pages",
+  "homepage": "http://hislopzach.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "@videojs/http-streaming": "^1.12.2",
-    "gh-pages": "^2.2.0",
     "griffith-hls": "^1.4.4",
     "griffith-mp4": "^1.5.0",
     "react": "^16.12.0",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "react-dom": "^16.12.0",
     "react-hls-player": "0.0.5",
     "react-scripts": "3.4.0",
@@ -23,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -39,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
