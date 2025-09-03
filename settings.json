@@ -1,0 +1,45 @@
+{
+  "metaTitle": "Link in Bio",
+  "metaDescription": "Zach Hislop's Link in Bio",
+  "name": "Zach Hislop",
+  "theme": "glitch",
+  "avatarImage": "https://cdn.glitch.me/fd1288fd-2d67-45f4-a41e-b6cd19f393f3/profile.png?v=1639682214817",
+  "links": [
+    {
+      "url": "https://spotify-favorites-viewer.web.app",
+      "text": "Spotify Favorites Viewer: see your Spotify favorites",
+      "img": "https://cdn.glitch.me/fd1288fd-2d67-45f4-a41e-b6cd19f393f3/spotify-favorites-background.png?v=1639681300626"
+    },
+    {
+      "url": "https://serf-line.web.app/",
+      "text": "Serfline: Surfline Premium for serfs",
+      "img": "https://cdn.glitch.me/fd1288fd-2d67-45f4-a41e-b6cd19f393f3/waves_icon_135026.png?v=1639680794540"
+    }
+  ],
+  "writings": [
+    {
+      "url": "https://medium.com/fridayswell/zachs-2024-tops-99bacfcfb9be",
+      "text": "Zach’s 2024 Tops",
+      "img": "https://cdn-images-1.medium.com/max/400/1*rt3miYJpB9fjLQWF_IaKAw.jpeg"
+    },
+    {
+      "url": "https://medium.com/fridayswell/zachs-top-5-2023-top-5-adventures-08d3c3d4e691",
+      "text": "Zach’s 2023 Top Adventures: Near and Far",
+      "img": "https://cdn-images-1.medium.com/max/400/1*rt3miYJpB9fjLQWF_IaKAw.jpeg"
+    },
+    {
+      "url": "https://medium.com/fridayswell/zachs-top-5-a30ea9929628",
+      "text": "2021 Top 5: A Podcast, Album, Song, Book, and a Daily Practice",
+      "img": "https://cdn-images-1.medium.com/max/400/1*rt3miYJpB9fjLQWF_IaKAw.jpeg"
+    }
+  ],
+
+  "playlists": [],
+  "social": {
+    "spotify": "https://open.spotify.com/user/12165262893",
+    "github": "https://github.com/hislopzach",
+    "linkedin": "https://www.linkedin.com/in/zachary-hislop/",
+    "medium": "",
+    "stackoverflow": ""
+  }
+}
